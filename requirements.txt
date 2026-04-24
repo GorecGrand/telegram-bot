@@ -1,4 +1,4 @@
-openpython-telegram-bot
+python-telegram-bot==21.11.1
 openai
 pydub
 audioop-lts
