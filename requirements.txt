@@ -1,0 +1,5 @@
+openpython-telegram-bot
+openai
+pydub
+audioop-lts
+python-dotenv
